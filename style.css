@@ -1,132 +1,127 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    background-color:#EEEEEE;
-    margin: 0;
-    padding: 0;
-    color: #c0c0c0;
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #eeeeee;
+	margin: 0;
+	padding: 0;
+	color: #c0c0c0;
 }
-a{
-    text-decoration: none;
-    color: #0000ff;
+a {
+	text-decoration: none;
+	color: #0000ff;
 }
-.header-text{
-    text-align: right;
-    margin: 0 0 20px 1040px;
-    display: inline-block;
-    font-size: 12px;
-    line-height: 0.5em;
-    
-
+.header-text {
+	text-align: right;
+	margin: 0 0 20px 1040px;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 0.5em;
 }
-.header-btn{
-    float: right;
-    margin: 7px 30px 0 0;
+.header-btn {
+	float: right;
+	margin: 7px 30px 0 0;
 }
-.sign-in-btn{
-    padding: 10px;
-    width: 100px;
-    border-radius: 4px;
-    background-color :#0077C5;
-    color: #EEEEEE;
-    border: 1px solid black;
+.sign-in-btn {
+	padding: 10px;
+	width: 100px;
+	border-radius: 4px;
+	background-color: #0077c5;
+	color: #eeeeee;
+	border: 1px solid black;
 }
 
-.upper-main{
-    text-align: center;
-    margin: 20px 0 20px 0;
-
+.upper-main {
+	text-align: center;
+	margin: 20px 0 20px 0;
 }
 .icon-class {
-    font-size: 20px;
-    margin: 0 5px 0px 5px;
+	font-size: 20px;
+	margin: 0 5px 0px 5px;
 }
 
-.upper-main a{
-    color: #c0c0c0;
+.upper-main a {
+	color: #c0c0c0;
 }
-fieldset{
-    background-color: white;
-    width: 30%;
-    margin: auto;
-    height: auto;
-    text-align: center;
-    border: 1px solid #c0c0c0;
-    padding: 0;
+fieldset {
+	background-color: white;
+	width: 30%;
+	margin: auto;
+	height: auto;
+	text-align: center;
+	border: 1px solid #c0c0c0;
+	padding: 0;
 }
-.fieldset-intro{
-    margin-bottom: 30px;
-    color: black;
+.fieldset-intro {
+	margin-bottom: 30px;
+	color: black;
 }
-.fieldset-intro p{
-    line-height: 0.1em;
-    font-size: 15px;
+.fieldset-intro p {
+	line-height: 0.1em;
+	font-size: 15px;
 }
-.fieldset-intro a{
-    font-size: 12px;
+.fieldset-intro a {
+	font-size: 12px;
 }
-.fieldset-intro h1{
-    margin: 40px 0 30px 0;
-    font-size: 25px;
+.fieldset-intro h1 {
+	margin: 40px 0 30px 0;
+	font-size: 25px;
 }
-.fieldset-footer{
-    background-color:#EEEEEE ;
-    margin: 0;
-    padding-top: 5px;
-    width: 100%;
-    height: 40px;
-    font-size: 10px;
-}
-
-form{
-    width: 90%;
-    margin: auto;
-    font-size: 16px;
-}
-.form-elements{
-    display: block;
-    text-align: left;
-    padding: 0;
-    width: 361px;
-    padding: 8px 0 8px 0;
-    
+.fieldset-footer {
+	background-color: #eeeeee;
+	margin: 0;
+	padding-top: 5px;
+	width: 100%;
+	height: 40px;
+	font-size: 10px;
 }
 
-.form-btn{
-    width: 100%;
-    padding: 10px;
-    background-color: #0879C7;
-    border: none;
-    border-radius: 4px;
-    color: white;
+form {
+	width: 90%;
+	margin: auto;
+	font-size: 16px;
+}
+.form-elements {
+	display: block;
+	text-align: left;
+	padding: 0;
+	width: 361px;
+	padding: 8px 0 8px 0;
+}
 
+.form-btn {
+	width: 100%;
+	padding: 10px;
+	background-color: #0879c7;
+	border: none;
+	border-radius: 4px;
+	color: white;
 }
-.phone-policies{
-    font-size: 10px;
-    margin-top: 5px;
-    text-align: left;
+.phone-policies {
+	font-size: 10px;
+	margin-top: 5px;
+	text-align: left;
 }
-.form-agreement{
-    font-size: 12px;
-    line-height: 1.5em;
-    font-style: italic;
-    margin: 45px 0 40px 0;
+.form-agreement {
+	font-size: 12px;
+	line-height: 1.5em;
+	font-style: italic;
+	margin: 45px 0 40px 0;
 }
-label{
-    margin: 0 0 20px 0; 
-    color: black;  
+label {
+	margin: 0 0 20px 0;
+	color: black;
 }
-form input{
-    margin-top: 8px;
-    border-radius: 4px;
-    border: 1px solid #c0c0c0;
+form input {
+	margin-top: 8px;
+	border-radius: 4px;
+	border: 1px solid #c0c0c0;
 }
-footer{
-    text-align: center;
-    margin-top: 20px;
-    font-size: 12px;
-    padding-bottom: 15px;
+footer {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 12px;
+	padding-bottom: 15px;
 }
-footer a{
-    color: #c0c0c0;
+footer a {
+	color: #c0c0c0;
 }
