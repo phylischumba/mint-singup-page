@@ -118,6 +118,12 @@ form {
   padding: 8px 0 8px 0;
 }
 
+.fa-lock-open {
+  position: relative;
+  bottom: 25px;
+  left: 150px;
+}
+
 .form-btn {
   width: 100%;
   padding: 10px;
