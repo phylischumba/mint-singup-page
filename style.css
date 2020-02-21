@@ -38,29 +38,34 @@ a {
   border: 1px solid black;
 }
 
+.upper-main img {
+  height: 110px;
+  width: 100%;
+}
+
 .upper-main {
-  text-align: center;
-  margin: 20px 0 20px 0;
+  margin: auto;
+  width: 25%;
+  padding: 0;
 }
 
 .upper-main h2 {
-  font-size: 35px;
-  margin-bottom: 15px;
+  display: none;
 }
 
-.icon-class {
+/* .icon-class {
   font-size: 20px;
   margin: 0 5px 0 5px;
   color: #8d9096;
-}
+} */
 
 footer a {
   color: #8d9096;
 }
 
-.upper-main a {
+/* .upper-main a {
   color: #8d9096;
-}
+} */
 
 fieldset {
   background-color: white;
@@ -135,7 +140,11 @@ form {
   margin: 45px 0 40px 0;
 }
 
-label {
+/* label {
+  margin: 0 0 20px 0;
+  color: black;
+} */
+.label-input-elements {
   margin: 0 0 20px 0;
   color: black;
 }

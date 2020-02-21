@@ -27,11 +27,13 @@
     <main>
         <section class="upper-main">
             <h2>Intuit</h2>
+            <!-- 
             <div class="main-section-icons">
                 <span class="icon-class"><a href="#"><i class="fab fa-airbnb"></i>mint</a> </span>
                 <span class="icon-class"><a href="#"><i class="fab fa-apple"></i>quickbooks</a> </span>
                 <span class="icon-class"><a href="#"><i class="fas fa-check"></i>turbotax</a></span>
-            </div>
+            </div> -->
+            <img src="img/intuit.png" alt="intuit-logo">
         </section>
 
         <section>
@@ -44,18 +46,22 @@
                 </div>
 
                 <form>
-                    <label for="email" class="form-elements">Email Address
+                    <div class="label-input-elements">
+                    <label for="email" class="form-elements">Email Address</label>
                         <input type="email" name="email" value="" id="email" class="form-elements">
-                    </label>
-
-                    <label for="phone-number" class="form-elements">Phone(recommended)
+                    </div>
+                    
+                    <div class="label-input-elements">
+                    <label for="phone-number" class="form-elements">Phone(recommended)</label>
                         <input type="number" name="phone-number" value="" id="phone-number" class="form-elements">
-                        <span class="phone-policies">Standard call, messaging or data rates may apply.</span></label>
+                        <p class="phone-policies">Standard call, messaging or data rates may apply.</p>
+                    </div>
+                    
 
-
-                    <label for="password" class="form-elements">Password
+                    <div class="label-input-elements">
+                    <label for="password" class="form-elements">Password</label>
                         <input type="password" name="password" value="" id="password" class="form-elements">
-                    </label>
+                    </div>
 
                     <button type="submit" class="form-btn"><i class="fas fa-lock"></i> Create Account</button>
 
