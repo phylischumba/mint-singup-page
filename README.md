@@ -22,7 +22,7 @@ Open the index.html file in your browser, to view the live version
 
 You can access our project using the link below: 
 
-https://raw.githack.com/Phylis05/mint-singup-page/signup-page/index.html
+https://raw.githack.com/Phylis05/mint-singup-page/master/index.html
 
 ## Authors:
 
